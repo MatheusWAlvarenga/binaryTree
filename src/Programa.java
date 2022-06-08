@@ -21,11 +21,6 @@ public class Programa {
     System.out.println("\n\nPós-ordem");
     arvore.posOrdem(arvore.getRaiz());
 
-   System.out.println("\n\nGrupo V2:");
-    System.out.println("\nMatheus Alvarenga");
-    System.out.println("Thiago Brito");
-    System.out.println("Nicolas Freitas");
-    System.out.println("Gabriel Artiaga");
 
   }
 }
